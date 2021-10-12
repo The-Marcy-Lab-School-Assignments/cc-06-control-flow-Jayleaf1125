@@ -31,17 +31,13 @@ function oddAndEvenInFifteen(){
   }
 }
 
-function sortThreeNums(){
-  
+function sortThreeNums(int1, int2, int3){
+    
 }
 
 
-// Still Working On
-// sortThreeNums()
-
-
 // Done
-console.log(sumOfThreeAndFive());
+// console.log(sumOfThreeAndFive());
 // console.log(greaterNum("50", 50));
 // oddAndEvenInFifteen();
 
